@@ -4,6 +4,8 @@
 Two models: a **service network** model for US service businesses (clinics, support centers, field service) and
 the original **goods network** model (suppliers, warehouses, inventory).
 
+**[Try the live dashboard](https://supplylens-network-simulator.streamlit.app)** — runs in your browser on a sample network, nothing to install.
+
 All networks and figures included are illustrative. Results are scenario estimates under stated assumptions,
 not forecasts of a real disruption and not measured savings.
 
