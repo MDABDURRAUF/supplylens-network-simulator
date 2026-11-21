@@ -1,0 +1,4 @@
+service,handle_hours,sla_days,patience_days,revenue_per_request,late_penalty,remote_eligible,priority
+Walk-in visit,0.75,0,1,165,0,False,1
+Telehealth visit,0.4,0,2,75,0,True,2
+Results follow-up,0.25,2,6,20,8,True,3

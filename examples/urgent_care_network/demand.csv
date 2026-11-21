@@ -1,0 +1,19 @@
+site,service,daily_requests
+Houston Clinic,Walk-in visit,78.4
+Houston Clinic,Telehealth visit,44.8
+Houston Clinic,Results follow-up,50.4
+Miami Clinic,Walk-in visit,67.2
+Miami Clinic,Telehealth visit,38.4
+Miami Clinic,Results follow-up,43.2
+Atlanta Clinic,Walk-in visit,67.2
+Atlanta Clinic,Telehealth visit,38.4
+Atlanta Clinic,Results follow-up,43.2
+Chicago Clinic,Walk-in visit,72.8
+Chicago Clinic,Telehealth visit,41.6
+Chicago Clinic,Results follow-up,46.8
+Boston Clinic,Walk-in visit,61.6
+Boston Clinic,Telehealth visit,35.2
+Boston Clinic,Results follow-up,39.6
+Phoenix Clinic,Walk-in visit,56.0
+Phoenix Clinic,Telehealth visit,32.0
+Phoenix Clinic,Results follow-up,36.0

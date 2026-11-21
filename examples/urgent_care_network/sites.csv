@@ -1,0 +1,7 @@
+site,city,state,region,staff,hours_per_staff_day,days_open,remote_share,overtime_max,labor_cost_per_hour,closed_on_federal_holidays,lat,lon
+Houston Clinic,Houston,TX,South,14,8,Every day,0.15,0.2,62,False,29.76,-95.37
+Miami Clinic,Miami,FL,South,12,8,Every day,0.15,0.2,60,False,25.76,-80.19
+Atlanta Clinic,Atlanta,GA,South,12,8,Every day,0.15,0.2,58,False,33.75,-84.39
+Chicago Clinic,Chicago,IL,Midwest,13,8,Every day,0.15,0.2,64,False,41.88,-87.63
+Boston Clinic,Boston,MA,Northeast,11,8,Every day,0.15,0.2,68,False,42.36,-71.06
+Phoenix Clinic,Phoenix,AZ,West,10,8,Every day,0.15,0.2,57,False,33.45,-112.07

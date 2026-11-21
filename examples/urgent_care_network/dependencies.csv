@@ -1,0 +1,13 @@
+site,vendor,capacity_share
+Houston Clinic,Health records system,0.7
+Miami Clinic,Health records system,0.7
+Atlanta Clinic,Health records system,0.7
+Chicago Clinic,Health records system,0.7
+Boston Clinic,Health records system,0.7
+Phoenix Clinic,Health records system,0.7
+Houston Clinic,Phone and internet carrier,0.35
+Miami Clinic,Phone and internet carrier,0.35
+Atlanta Clinic,Phone and internet carrier,0.35
+Chicago Clinic,Phone and internet carrier,0.35
+Boston Clinic,Phone and internet carrier,0.35
+Phoenix Clinic,Phone and internet carrier,0.35

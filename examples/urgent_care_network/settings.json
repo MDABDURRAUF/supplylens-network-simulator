@@ -1,0 +1,21 @@
+{
+  "name": "Urgent-care clinics",
+  "description": "Six clinics; walk-in visits must be done on site, telehealth and follow-ups can be handled by any clinic.",
+  "settings": {
+    "start_date": "2026-01-05",
+    "weekday_factor": [
+      1.1,
+      1.0,
+      0.95,
+      0.95,
+      1.0,
+      1.0,
+      0.95
+    ],
+    "temp_pool_hours_per_day": 64,
+    "temp_lead_days": 3,
+    "temp_cost_multiplier": 1.7,
+    "temp_productivity": 0.8,
+    "handoff_cost_per_request": 3.0
+  }
+}
